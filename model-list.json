@@ -1,0 +1,10 @@
+{
+    "model_data":[
+        ["v2", "tartaglia-jp-v2", "https://huggingface.co/ArkanDash/rvc-genshin-impact/resolve/main/prezipped/v2/tartaglia-jp%20103%20epochs%2048k%20v2.zip", "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Character_Tartaglia_Full_Wish.png"],
+	["v1", "tartaglia-jp-v1", "https://github.com/VoidAutomata/rvc-tartaglia/blob/main/Tartaglia-RVC-JP-v1.zip", "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Character_Tartaglia_Full_Wish.png"],
+	["v1", "tartaglia-eng-v1", "https://huggingface.co/juuxn/RVCModels/resolve/main/Childe-Tartaglia-CREPE.zip", "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Character_Tartaglia_Game.png"]
+    ],
+    "list": [
+        "tartaglia-jp-v2", "tartaglia-jp-v1", "tartaglia-eng-v1"
+    ]
+}
